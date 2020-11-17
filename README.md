@@ -47,4 +47,4 @@ on the World of Machines. Im still going to School and after that i want to work
 - Was included in some Projects maybe someone remembers me lmao
 
 # X Other
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exouth)](https://github.com/anuraghazra/github-readme-stats)
