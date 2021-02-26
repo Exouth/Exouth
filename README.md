@@ -3,7 +3,7 @@
 <!---->
 # X About Me
 Hello my name is Marcel and im from Germany. I have been coding since 2016, but already showed before that Interest
-on the World of Machines. Im still going to School and after that i want to work as a Software Developer in C# or C++.
+on the World of Machines. Im still going to School and after that i want to work as a Software Developer in C#, C++ or Python.
 
 **Programming Languages:**
 - **Python**
@@ -13,8 +13,9 @@ on the World of Machines. Im still going to School and after that i want to work
 - SQL
 - Ruby
 - **Main Languages in Bolt!**
+- Currently learning: Assembly
 
-**Knowleague:**
+**Knowledge:**
 - Cyber Security
 - Ethical Hacking
 - Networks and Machines
